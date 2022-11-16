@@ -1,5 +1,10 @@
 # virtualpaint
 
+
+![](https://github.com/pratik9409/virtualpaint/blob/master/paint_sample.gif)
+
+
+
 Install Python Libraries
 pip install opencv
 pip install numpy
